@@ -17,8 +17,8 @@ This is a backend system for a healthcare application built with Django and Djan
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-github-repo-link>
-    cd <project-folder-name>
+    git clone [https://github.com/vansh1306/Django_assignment](https://github.com/vansh1306/Django_assignment)
+    cd Django_assignment
     ```
 
 2.  **Create and activate a virtual environment:**
